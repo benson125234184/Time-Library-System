@@ -77,13 +77,6 @@ Elasticsearch（支援全文搜尋）
 通訊格式：JSON（前後端透過 API 傳輸資料）
 
 版本控管：Git / GitHub
-### 開發工具
-- **Maven** - Java 專案管理
-- **pnpm** - Node.js 套件管理
-- **Docker** - 容器化部署
-- **Git** - 版本控制
-
-
 
 ##  快速開始
 
