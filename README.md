@@ -92,9 +92,3 @@ cd TimeLibrary-frontend
 pnpm install
 pnpm dev
 ```
-
-### Docker 啟動
-```bash
-cd TimeLibrary-backend
-docker-compose up -d
-```
