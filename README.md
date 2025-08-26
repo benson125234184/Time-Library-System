@@ -2,6 +2,7 @@
 
 <img width="1915" height="861" alt="image" src="https://github.com/user-attachments/assets/9190796d-c2f8-4004-944a-4832ee007aef" />
 
+##  專案簡介
 一個現代化的圖書館管理系統，提供書籍預約、座位預約、會員管理等功能。
 
 ##  主要功能
